@@ -1,0 +1,327 @@
+<resources>
+    <string name="app_name">Kclothing</string>
+    <string name="Rs">\u20B9</string>
+    <string name="action_settings">Create User</string>
+    <string name="login">KClothing Admin Login</string>
+    <string name="search">Search by Name, Phone Number...</string>
+
+    <string name="here_is_your_canvas">Here is your canvas. Start to paint!</string>
+    <string name="color">Color</string>
+    <string name="emboss">Bold</string>
+    <string name="blur">Blur</string>
+    <string name="brush_size">Brush size</string>
+    <string name="clear_all">Erase all</string>
+    <string name="share">Share</string>
+    <string name="your_selected_size_is">Selected size: %1$s</string>
+    <string name="choose_width">Brush size</string>
+    <string name="saved_your_location_to">Saved your artwork to %1$s</string>
+    <string name="select">Select</string>
+    <string name="continue_fuck">Continue</string> <!-- Workaround to avoid "R.string.continue", that it's as a special class-word! D: -->
+    <string name="ok">OK</string>
+    <string name="pick_color">Pick a Color</string>
+    <string name="toolbox_share_title">Share</string>
+    <string name="share_title_template">Look at what I painted with Acrylic Paint! --- Acrylic Paint (Simple finger painting) - https://f-droid.org/app/anupam.acrylic</string>
+    <string name="share_text_template">Share as text</string>
+    <string name="no_way_to_share">Can\'t locate an app to share with…</string>
+    <string name="normal">Pencil</string>
+    <string name="title_activity_about">About</string>
+    <string name="press_back_again">Press back again to exit!\n(Losing all the unsaved work)</string>
+    <string name="custom_size_text_content">Custom tailoring charges will be Rs 500 extra per garment. For hip sizes of 50" and higher, since we are using more fabric, the garment will cost Rs 500 more. All measurements in inches.</string>
+
+    <string-array name="shoulder_array_values">
+        <item> 11 </item>
+        <item> 12 </item>
+        <item> 13 </item>
+        <item> 14 </item>
+        <item> 15 </item>
+        <item> 16 </item>
+        <item> 17 </item>
+        <item> 18 </item>
+        <item> 19 </item>
+        <item> 20 </item>
+        <item> 21 </item>
+        <item> 22 </item>
+        <item> 23 </item>
+        <item> 24 </item>
+        <item> 25 </item>
+    </string-array>
+
+    <string-array name="chest_array_values">
+        <item> 20 </item>
+        <item> 21 </item>
+        <item> 22 </item>
+        <item> 23 </item>
+        <item> 24 </item>
+        <item> 25 </item>
+        <item> 26 </item>
+        <item> 27 </item>
+        <item> 28 </item>
+        <item> 29 </item>
+        <item> 30 </item>
+        <item> 31 </item>
+        <item> 32 </item>
+        <item> 33 </item>
+        <item> 34 </item>
+        <item> 35 </item>
+        <item> 36 </item>
+        <item> 37 </item>
+        <item> 38 </item>
+        <item> 39 </item>
+        <item> 40 </item>
+        <item> 41 </item>
+        <item> 42 </item>
+        <item> 43 </item>
+        <item> 44 </item>
+        <item> 45 </item>
+        <item> 46 </item>
+        <item> 47 </item>
+        <item> 48 </item>
+        <item> 49 </item>
+        <item> 50 </item>
+        <item> 51 </item>
+        <item> 52 </item>
+        <item> 53 </item>
+        <item> 54 </item>
+        <item> 55 </item>
+        <item> 56 </item>
+        <item> 57 </item>
+        <item> 58 </item>
+        <item> 59 </item>
+        <item> 60 </item>
+    </string-array>
+
+    <string-array name="waist_array_values">
+        <item> 18 </item>
+        <item> 19 </item>
+        <item> 20 </item>
+        <item> 21 </item>
+        <item> 22 </item>
+        <item> 23 </item>
+        <item> 24 </item>
+        <item> 25 </item>
+        <item> 26 </item>
+        <item> 27 </item>
+        <item> 28 </item>
+        <item> 29 </item>
+        <item> 30 </item>
+        <item> 31 </item>
+        <item> 32 </item>
+        <item> 33 </item>
+        <item> 34 </item>
+        <item> 35 </item>
+        <item> 36 </item>
+        <item> 37 </item>
+        <item> 38 </item>
+        <item> 39 </item>
+        <item> 40 </item>
+        <item> 41 </item>
+        <item> 42 </item>
+        <item> 43 </item>
+        <item> 44 </item>
+        <item> 45 </item>
+        <item> 46 </item>
+        <item> 47 </item>
+        <item> 48 </item>
+        <item> 49 </item>
+        <item> 50 </item>
+    </string-array>
+
+    <string-array name="hip_array_values">
+        <item> 28 </item>
+        <item> 29 </item>
+        <item> 30 </item>
+        <item> 31 </item>
+        <item> 32 </item>
+        <item> 33 </item>
+        <item> 34 </item>
+        <item> 35 </item>
+        <item> 36 </item>
+        <item> 37 </item>
+        <item> 38 </item>
+        <item> 39 </item>
+        <item> 40 </item>
+        <item> 41 </item>
+        <item> 42 </item>
+        <item> 43 </item>
+        <item> 44 </item>
+        <item> 45 </item>
+        <item> 46 </item>
+        <item> 47 </item>
+        <item> 48 </item>
+        <item> 49 </item>
+        <item> 50 </item>
+        <item> 51 </item>
+        <item> 52 </item>
+        <item> 53 </item>
+        <item> 54 </item>
+        <item> 55 </item>
+        <item> 56 </item>
+        <item> 57 </item>
+        <item> 58 </item>
+        <item> 59 </item>
+        <item> 60 </item>
+        <item> 61 </item>
+        <item> 62 </item>
+        <item> 63 </item>
+        <item> 64 </item>
+        <item> 65 </item>
+        <item> 66 </item>
+        <item> 67 </item>
+        <item> 68 </item>
+        <item> 69 </item>
+        <item> 70 </item>
+    </string-array>
+
+    <string-array name="armhole_array_values">
+        <item> 10 </item>
+        <item> 11 </item>
+        <item> 12 </item>
+        <item> 13 </item>
+        <item> 14 </item>
+        <item> 15 </item>
+        <item> 16 </item>
+        <item> 17 </item>
+        <item> 18 </item>
+        <item> 19 </item>
+        <item> 20 </item>
+        <item> 21 </item>
+        <item> 22 </item>
+        <item> 23 </item>
+        <item> 24 </item>
+        <item> 25 </item>
+        <item> 26 </item>
+        <item> 27 </item>
+        <item> 28 </item>
+        <item> 29 </item>
+        <item> 30 </item>
+    </string-array>
+
+    <string-array name="muscle_array_values">
+        <item> 10 </item>
+        <item> 11 </item>
+        <item> 12 </item>
+        <item> 13 </item>
+        <item> 14 </item>
+        <item> 15 </item>
+        <item> 16 </item>
+        <item> 17 </item>
+        <item> 18 </item>
+        <item> 19 </item>
+        <item> 20 </item>
+        <item> 21 </item>
+        <item> 22 </item>
+        <item> 23 </item>
+        <item> 24 </item>
+        <item> 25 </item>
+        <item> 26 </item>
+        <item> 27 </item>
+        <item> 28 </item>
+        <item> 29 </item>
+        <item> 30 </item>
+    </string-array>
+
+    <string-array name="sleeve_length_array_values">
+        <item>  1 </item>
+        <item>  2 </item>
+        <item>  3 </item>
+        <item>  4 </item>
+        <item>  5 </item>
+        <item>  6 </item>
+        <item>  7 </item>
+        <item>  8 </item>
+        <item>  9 </item>
+        <item> 10 </item>
+        <item> 11 </item>
+        <item> 12 </item>
+        <item> 13 </item>
+        <item> 14 </item>
+        <item> 15 </item>
+        <item> 16 </item>
+        <item> 17 </item>
+        <item> 18 </item>
+        <item> 19 </item>
+        <item> 20 </item>
+        <item> 21 </item>
+        <item> 22 </item>
+        <item> 23 </item>
+        <item> 24 </item>
+        <item> 25 </item>
+        <item> 26 </item>
+        <item> 27 </item>
+        <item> 28 </item>
+        <item> 29 </item>
+        <item> 30 </item>
+    </string-array>
+
+    <string-array name="garment_length_array_values">
+        <item> 20 </item>
+        <item> 21 </item>
+        <item> 22 </item>
+        <item> 23 </item>
+        <item> 24 </item>
+        <item> 25 </item>
+        <item> 26 </item>
+        <item> 27 </item>
+        <item> 28 </item>
+        <item> 29 </item>
+        <item> 30 </item>
+        <item> 31 </item>
+        <item> 32 </item>
+        <item> 33 </item>
+        <item> 34 </item>
+        <item> 35 </item>
+        <item> 36 </item>
+        <item> 37 </item>
+        <item> 38 </item>
+        <item> 39 </item>
+        <item> 40 </item>
+        <item> 41 </item>
+        <item> 42 </item>
+        <item> 43 </item>
+        <item> 44 </item>
+        <item> 45 </item>
+        <item> 46 </item>
+        <item> 47 </item>
+        <item> 48 </item>
+        <item> 49 </item>
+        <item> 50 </item>
+    </string-array>
+
+    <string name="start_new">New</string>
+    <string name="brush">Brush</string>
+    <string name="erase">Erase</string>
+    <string name="opacity">Opacity</string>
+    <string name="save">Save</string>
+    <string name="paint">Paint</string>
+    <string name="sml">Small</string>
+    <string name="med">Medium</string>
+    <string name="lrg">Large</string>
+    <string name="gallery">Gallery</string>
+    <string name="dresses">Dresses</string>
+    <string name="tunics">Tunics</string>
+    <string name="tops">Tops</string>
+    <string name="bagsnbelts">Bags and Belts</string>
+    <string name="jackets">Jackets</string>
+    <string name="jewellery">Jewellery</string>
+    <string name="parts">Parts</string>
+    <string name="porchos">Porchos</string>
+    <string name="scarves">Scarves</string>
+    <string name="shirts">Shirts</string>
+    <string name="ordersheet_body1"><u>BODY FITTED MEASUREMENTS IN INCHES</u></string>
+    <string name="order_sheet_address_label">Studio K, 132, Kodambakkam High Road, S.S Towers, 5th Floor, Nungambakkam, Chennai 600034\n\n
+    www.kclothing.in | www.facebook.com/KClothing | +91-9176252614 | +91-44-26221911 | heretohelp@kclothing.in</string>
+    <string name="sizechart_text"><u>Size Chart</u></string>
+    <string name="customsize_text"><u>Custom Size</u></string>
+    <string name="title_activity_unused_">Unused_Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Personal Details</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_summary">Summary</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_workexp">Work Experience</string>
+    <string name="title_education">Education</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+</resources>
